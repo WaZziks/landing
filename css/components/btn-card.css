@@ -1,0 +1,69 @@
+#btn-F1, #btn-F2, #btn-F3 {
+	background-color:#D30000;
+	color: white;
+	padding: 5px 10px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: merriweather, sans-serif;
+	margin: 5px;
+	transition: background-color 0.5s ease;
+}
+
+#btn-F1{
+	background-color: #EA3D25;
+}
+
+#btn-F2{
+	background-color: #459BD5;
+}
+
+#btn-F3{
+	background-color: #666666;
+}
+
+
+#btn-F1:hover{
+	background-color: #000000;
+}
+
+#btn-F2:hover{
+	background-color: #16385C;
+}
+
+#btn-F3:hover{
+	background-color: #E43222;
+}
+
+#btn-ask{
+	background-color:#D30000;
+	color: white;
+	padding: 5px 10px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: merriweather, sans-serif;
+	margin: 0px;
+	transition: background-color 0.5s ease;
+	background-color: #EA3D25;
+}
+
+#btn-ask:hover{
+	background-color: #000000;
+}
+
+/* Button banner */ 
+
+.btn-red{
+	background-color:#D30000;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: merriweather, sans-serif;
+	transition: background-color 0.8s ease;
+	
+}
+
+.btn-red:hover{
+	background-color: #FF6161;
+
+t

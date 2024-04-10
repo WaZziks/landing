@@ -1,0 +1,65 @@
+/* Importing component files */
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/btn-card.css");
+
+
+
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700|Cambria:300,400,700");
+
+body{
+	margin: 0px;
+	background-color: white;
+}
+
+
+h1, h2, h3{
+  font-family: 'Cambria', serif;
+  font-weight: regular;
+}
+
+h1{
+	font-size: 35px;
+	text-align: center;
+}
+
+h2{
+	font-size: 18px;
+}
+
+p{
+	font-family: 'Merriweather', serif;
+  	font-weight: regular;	
+  	font-size: 16px;
+}
+
+a{
+	text-decoration: none;
+	color: #34495E;
+	Font-size: 15px;
+	text-align: center;
+}
+
+iframe{
+	margin: 15px auto;
+}
+
+
+/* Design with ID */ 
+
+#LogoF1 {
+	width: 130px;
+}
+
+#LogoF2 {
+	width: 90px;
+	margin-right: 15px;
+}
+
+#LogoF3 {
+	width: 90px;
+	margin-right: 15px;
+}
+
